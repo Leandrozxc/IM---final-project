@@ -15,8 +15,8 @@ This web application provides a **single, centralized platform** where all stude
 
 ---
 
-🧩 Core Features
-👥 User Roles
+## 🧩 Core Features
+### 👥 User Roles
 
 **Students**
   Submit service requests (tickets), view real-time updates, and add follow-up messages.**Staff / Encoders**
