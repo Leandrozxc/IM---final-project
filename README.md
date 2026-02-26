@@ -38,7 +38,7 @@ This web application provides a **single, centralized platform** where all stude
 * The system detects **potential duplicate submissions** within a 24-hour window and allows tickets to be linked or merged.
 * An **administrative dashboard** displays open and overdue tickets by department and staff, enabling better prioritization and performance monitoring.
 
-###📊 Impact & Value
+### 📊 Impact & Value
 
 By implementing the Student Services Helpdesk, universities gain:
 
